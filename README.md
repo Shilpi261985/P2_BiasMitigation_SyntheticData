@@ -21,5 +21,4 @@ File load_dataset.ipynb :
 - Generate a CV based on sample from dataset (using the prompt saved in txt).
     - It would be best to include an option for whether or not the gender is used in generating the CV.
 - Exand CV generation into a framework generating CVs for multiple samples and saving in CSV file.
-- create a pandas dataframe with this sample + new column containing CV text.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
