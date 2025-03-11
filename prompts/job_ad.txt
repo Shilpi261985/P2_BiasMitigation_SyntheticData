@@ -1,0 +1,1 @@
+Generate a job ad for the following profession. {profession}
