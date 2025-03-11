@@ -19,6 +19,6 @@ File load_dataset.ipynb :
     - Who is the sample population
 - Create a prompt for generating a job ad for a given profession (profession should be a variable).
 - Generate a CV and cover letter based on sample from the dataset and generated job ad.
-    - It would be best to include an option for whether or not the gender is used in generating the CV.
+    - It would be best to include an option for whether or not the gender is used in generating the application.
 - Expandgeneration into a framework generating job applications for multiple samples and saving in CSV file.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
