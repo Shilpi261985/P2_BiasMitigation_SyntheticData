@@ -6,6 +6,9 @@ File load_dataset.ipynb :
 --Mapping of the occupation with the 'profession' column as described in Bias_in_Bios Dataset documentation, also mapping of gender column with 'Male' and 'Female' 
 --No of samples (10) are extracted as per each profession and saved in separate CSV files. 
 
+##
+**Next Meeting:** 25.3.2025, in-person
+
 ## Tasks
 - Download model to GPU server
 - Generate text based on prompt saved in seperate txt file
