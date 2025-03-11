@@ -9,3 +9,16 @@ File load_dataset.ipynb :
 ## Tasks
 - Download model to GPU server
 - Generate text based on prompt saved in seperate txt file
+- Record information about the dataset in the Readme file:
+    - Gender divide overall
+    - Gender distributaion per profession
+    - Number of samples per profession
+    - List of professions (and how they were chosen)
+    - A couple text samples
+    - How it was collected
+    - Who is the sample population
+
+- load text from a BiasBios sample, generate a CV based on that sample (using the prompt saved in txt).
+- It would be best to include an option for whether or not the gender is used in generating the cv.
+- create a pandas dataframe with this sample + new column containing CV text.
+- (if time) compare available models in terms of pros and cons for our task.
