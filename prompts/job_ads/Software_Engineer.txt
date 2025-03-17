@@ -1,0 +1,9 @@
+
+        Write a professional and inclusive job advertisement for a Software Engineer.
+        The job ad should include:
+        - A short company introduction
+        - Job responsibilities
+        - Required qualifications
+        - Preferred skills
+        - Equal opportunity statement
+        
