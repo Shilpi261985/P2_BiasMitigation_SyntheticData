@@ -27,6 +27,7 @@ File load_dataset.ipynb :
 - Expand generation into a framework generating job applications for multiple samples and saving in CSV file.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
 
+##
 #### 18 March 2025
 - Finished tasks:    
     - uploaded dataset locally    
