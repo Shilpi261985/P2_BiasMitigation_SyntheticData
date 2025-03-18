@@ -1,5 +1,5 @@
 ## BiasBios Synthetic Data Generation
-### 11 March 2025
+#### 11 March 2025
 
 File load_dataset.ipynb : 
 - Loads the BiasBios Dataset from  https://huggingface.co/datasets/LabHC/bias_in_bios 
@@ -27,9 +27,9 @@ File load_dataset.ipynb :
 - Expand generation into a framework generating job applications for multiple samples and saving in CSV file.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
 
-### 18 March 2025
+#### 18 March 2025
 - Finished tasks:    
-      - uploaded dataset locally    
-      - updated info_record.ipynb with all information and visulaisation about dataset    
-      - updated prompt_job_ad.ipynb with prompt for job ad.    
-      - generated and saved text files with prompt under 'prompts' folder.    
+    - uploaded dataset locally    
+    - updated info_record.ipynb with all information and visulaisation about dataset    
+    - updated prompt_job_ad.ipynb with prompt for job ad.    
+    - generated and saved text files with prompt under 'prompts' folder.    
