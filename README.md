@@ -1,10 +1,11 @@
-# BiasBios Synthetic Data Generation
+## BiasBios Synthetic Data Generation
+## 11 March 2025
 
 File load_dataset.ipynb : 
---Loads the BiasBios Dataset from  https://huggingface.co/datasets/LabHC/bias_in_bios 
---As the data is already split in train, test and dev, we need to concatenate the data to get one whole dataframe. 
---Mapping of the occupation with the 'profession' column as described in Bias_in_Bios Dataset documentation, also mapping of gender column with 'Male' and 'Female' 
---No of samples (10) are extracted as per each profession and saved in separate CSV files. 
+- Loads the BiasBios Dataset from  https://huggingface.co/datasets/LabHC/bias_in_bios 
+- As the data is already split in train, test and dev, we need to concatenate the data to get one whole dataframe. 
+- Mapping of the occupation with the 'profession' column as described in Bias_in_Bios Dataset documentation, also mapping of gender column with 'Male' and 'Female' 
+- No of samples (10) are extracted as per each profession and saved in separate CSV files. 
 
 ##
 **Next Meeting:** 25.3.2025, 15h, in-person
@@ -25,3 +26,10 @@ File load_dataset.ipynb :
     - It would be best to include an option for whether or not the gender is used in generating the application.
 - Expand generation into a framework generating job applications for multiple samples and saving in CSV file.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
+
+## 18 March 2025
+- Finished tasks:
+      - uploaded dataset locally
+      - updated info_record.ipynb with all information and visulaisation about dataset
+      - updated prompt_job_ad.ipynb with prompt for job ad.
+      - generated and saved text files with prompt under 'prompts' folder.
