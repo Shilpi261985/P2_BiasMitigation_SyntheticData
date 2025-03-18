@@ -1,9 +1,22 @@
 
-        Write a professional and inclusive job advertisement for a Dj.
-        The job ad should include:
-        - A short company introduction
-        - Job responsibilities
-        - Required qualifications
-        - Preferred skills
-        - Equal opportunity statement
+        **Dj - We're Hiring!**
+    
+        **Company Overview:**  
+        We are a leading company in the industry, committed to innovation, excellence, and fostering a diverse work environment.  
+
+        **Job Description:**  
+        As a Dj, you will be responsible for various tasks, including problem-solving, teamwork, and contributing to our company's success. Your role will involve industry-specific responsibilities that align with your expertise.  
+
+        **Required Skills & Qualifications:**  
+        - Strong knowledge in the Dj field.  
+        - Relevant degree or certification.  
+        - Excellent problem-solving and communication skills.  
+
+        **Benefits & Perks:**  
+        - Competitive salary  
+        - Flexible working hours  
+        - Career growth opportunities  
+
+        **How to Apply:**  
+        Interested candidates can apply by sending their resume to hr@example.com. 
         
