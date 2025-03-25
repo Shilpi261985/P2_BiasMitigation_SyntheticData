@@ -33,5 +33,8 @@ File load_dataset.ipynb :
     - uploaded dataset locally    
     - updated info_record.ipynb with all information and visulaisation about dataset    
     - updated prompt_job_ad.ipynb with prompt for job ad.    
-    - generated and saved text files with prompt under 'prompts' folder.
-    - Uploaded model Meta-Llama on GPU server 
+    - saved text files with prompt under 'prompts' folder.
+    - Uploaded model Meta-Llama on GPU server
+    - generated jobad file for one profession
+    - generated CV and cover letter
+    - (both have some issues, need to be discussed)
