@@ -36,7 +36,7 @@ File load_dataset.ipynb :
 - (Optional) compare available models on HF in terms of pros and cons for our task.
     - meta-llama/Llama-3.2-1B-Instruct
     - meta-llama/Llama-3.2-3B-Instruct
-- In Readme, describe contents of each (important) notebooks.
+- In Readme, describe contents of each (important) notebook.
 - Organize csv folder into subfolders.
 
 ##
