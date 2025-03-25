@@ -25,10 +25,17 @@ File load_dataset.ipynb :
     - Provide basic template (optional)
     - Provide list of 10 candidate bios
     - Augment basic template to create job ad for the given profession and candidate pool.
+    - End prompt with "Generated job ad:"
+    - Only take text after "Generated job ad:" as response (so that you don't reprint the model input in your output).
+    - (Optional) Experiment with different levels of seniority/desired candidates attributes in general.
 - Generate a CV and cover letter based on sample from the dataset and generated job ad.
     - It would be best to include an option for whether or not the gender is used in generating the application.
+    - (Optional) Include ability to specify race/nationality/ethnicity.
+    - (Optional) Include words/sentences that are "proxies" for e.g. gender/race. ("My main hobby is knitting vs. My main hobby is football.")
 - Expand generation into a framework generating job applications for multiple samples and saving in CSV file.
 - (Optional) compare available models on HF in terms of pros and cons for our task.
+    - meta-llama/Llama-3.2-1B-Instruct
+    - meta-llama/Llama-3.2-3B-Instruct
 - In Readme, describe contents of each (important) notebooks.
 - Organize csv folder into subfolders.
 
