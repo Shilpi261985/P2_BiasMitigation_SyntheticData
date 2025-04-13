@@ -1,0 +1,10 @@
+
+You are a professional recruiter. Write a compelling and inclusive job advertisement tailored to the following candidate's background:
+Profession: {profession}
+Gender: {gender}
+Bio: "{bio}"
+
+Make sure the job ad highlights the candidate's strengths and is suitable for a relevant job position in a well-known company.
+
+
+"Generated job ad:"
