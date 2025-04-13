@@ -50,3 +50,9 @@ File load_dataset.ipynb :
     - generated jobad file for one profession
     - generated CV and cover letter
     - (both have some issues, need to be discussed)
+
+##
+#### 13 April 2025
+- Updated src folder with generate_jobAD.ipynb for generating jobAds as per prompt text file for 10 sampled bios.
+- updated prompts folder with prompt_template_jobAD.txt file for prompt used to generate jobADs
+- created new folder generated_txts to save file generated_outputs.txt for saving generated jobADs
