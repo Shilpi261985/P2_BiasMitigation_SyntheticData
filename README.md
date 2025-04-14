@@ -53,6 +53,9 @@ File load_dataset.ipynb :
 
 ##
 #### 13 April 2025
+- load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
+- info_record.ipynb : has all the information and visualisation around dataset.
+- model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
 - Updated src folder with generate_jobAD.ipynb for generating jobAds as per prompt text file for 10 sampled bios.
 - updated prompts folder with prompt_template_jobAD.txt file for prompt used to generate jobADs
 - created new folder generated_txts to save file generated_outputs.txt for saving generated jobADs
