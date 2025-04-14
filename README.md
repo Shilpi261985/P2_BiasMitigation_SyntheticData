@@ -59,3 +59,4 @@ File load_dataset.ipynb :
 - Updated src folder with generate_jobAD.ipynb for generating jobAds as per prompt text file for 10 sampled bios.
 - updated prompts folder with prompt_template_jobAD.txt file for prompt used to generate jobADs
 - created new folder generated_txts to save file generated_outputs.txt for saving generated jobADs
+- uploaded generate_CV_CoverLetter.ipynb file to generate and save CV and Coverletter in sepearte text files.
