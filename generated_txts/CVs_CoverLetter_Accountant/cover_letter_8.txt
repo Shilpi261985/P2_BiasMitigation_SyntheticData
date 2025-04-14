@@ -1,0 +1,18 @@
+<s>[INST] "Write a personalized cover letter for the following biography:\n\nHe is Accredited in Business Valuation (ABV), Certified in Financial Forensics (CFF), and a Chartered Global Management Accountant (CGMA) with more than 40 years of finance, management and accounting experience in a variety of industries – as an expert witness, a CFO in private industry, and a manager with Price Waterhouse. Barnes has taught courses for The National Judicial College, AICPA, Price Waterhouse, Hastings College of Law, and the College of Advocacy. He has been a speaker at AICPA’s National Business Valuation Conferences and the CalCPA Education Foundation’s Advanced Business Litigation Institutes. Barnes has received awards from both AICPA and the Education Foundation for his work in business valuation education."\n\n
+
+Generated CoverLetter: 
+
+ [/INST]  Dear [Hiring Manager],
+
+I am writing to express my interest in the [Position] role at [Company], as I believe my extensive experience in finance, management, and accounting, combined with my accreditations in Business Valuation (ABV), Certified in Financial Forensics (CFF), and Chartered Global Management Accountant (CGMA), make me an ideal candidate for the position.
+
+With over 40 years of experience in various industries, including as an expert witness, CFO in private industry, and manager with Price Waterhouse, I have developed a unique skill set that enables me to provide valuable insights and expertise to clients. My experience has given me a deep understanding of the complexities of financial analysis and litigation support, which I have honed through my work with The National Judicial College, AICPA, Price Waterhouse, Hastings College of Law, and the College of Advocacy.
+
+In addition to my practical experience, I have also been recognized for my contributions to the field of business valuation education. I have received awards from both AICPA and the Education Foundation for my work in this area, which has helped to establish me as a leading expert in the field.
+
+As a seasoned professional with a proven track record of success, I am confident that I would be a valuable asset to your team. I am committed to delivering high-quality work and providing exceptional service to clients, and I am excited at the prospect of joining a team that shares these values.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to the success of [Company].
+
+Sincerely,
+[Your Name]

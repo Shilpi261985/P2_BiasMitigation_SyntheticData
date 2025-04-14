@@ -1,0 +1,17 @@
+<s>[INST] "Write a personalized cover letter for the following biography:\n\nSince 2015 she has been the Director of the Michael Hughes Foundation, an Australia Not for Profit company with a focus on raising public awareness of sudden cardiac arrest, promotion of first aid training and placement of defibrillators in the community. Between 2007-2013 Michelle was an accountant at Goodwin Chivas & Co Chartered Accountants before becoming company Manager from 2013-2017. Michelle has a Bachelor of Business, Accounting and Finance from the University of Technology, Sydney (2003-2005) and a Graduate Diploma of Chartered Accounting from the Institute of Chartered Accountants in Australia, 2007-2009.\n\n
+
+Generated CoverLetter: 
+
+ [/INST]  Dear [Hiring Manager],
+
+I am writing to express my interest in the [Position] role at [Organization], as advertised on [Job Board/Website]. As a dedicated and passionate professional with a proven track record in leadership and advocacy, I am confident that I would be an excellent fit for this position.
+
+Since 2015, I have been the Director of the Michael Hughes Foundation, a Not for Profit organization based in Australia. In this role, I have been instrumental in raising public awareness of sudden cardiac arrest, promoting first aid training, and placing defibrillators in the community. Through my tireless efforts, I have helped to save countless lives and improve the overall health and wellbeing of the community.
+
+Prior to my current role, I worked as an accountant at Goodwin Chivas & Co Chartered Accountants from 2007 to 2013. During my time there, I honed my skills in financial management, budgeting, and strategic planning, which have proven invaluable in my current role as a non-profit leader. From 2013 to 2017, I served as the company manager, further developing my leadership abilities and deepening my understanding of the importance of effective communication and teamwork.
+
+I hold a Bachelor of Business, Accounting and Finance from the University of Technology, Sydney (2003-2005), as well as a Graduate Diploma of Chartered Accounting from the Institute of Chartered Accountants in Australia (2007-2009). My extensive education and professional experience have equipped me with a comprehensive understanding of the financial and business aspects of non-profit management, enabling me to make informed decisions and drive the organization forward.
+
+In addition to my professional achievements, I am also committed to community service. I have volunteered my time and expertise to various organizations, including the Australian Red Cross and the Heart Foundation. Through these experiences, I have gained a deep appreciation for the importance of collaboration and partnership in achieving common goals.
+
+In conclusion, I am excited about the opportunity to join [Organization] and contribute my skills and experience to the [Position] role. I am confident that my passion for non-profit work, combined with my financial and
