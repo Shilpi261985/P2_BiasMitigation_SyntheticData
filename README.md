@@ -3,10 +3,15 @@
 ## Repository Information
 ### Directories
 - prompts:
-    - prompt_template_jobAD.txt: for prompt used to generate jobADs
+    - prompt_template_jobAD.txt : for prompt used to generate jobADs
+    - prompt_CV.txt : for prompt used to generate CV
+    - prompt_CoverLetter : for prompt used to generate CoverLetter
 - generated_txts:
-    - generated_outputs.txt: for saving generated jobADs
+    - generated_outputs.txt : for saving all generated jobADs (accountant)
+    - generated_jobADs : folder for saving genertaed jobADs (accountant) seperately for 10 bios
+    - CVs_CoverLetter_Accountant : folder for saving generated CVs and CoverLetters (accountant) separately for 10 bios
 - csvs:
+     - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
