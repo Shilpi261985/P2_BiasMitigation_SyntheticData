@@ -13,7 +13,7 @@
 - info_record.ipynb : has all the information and visualisation around dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
 - generate_jobAD.ipynb: for generating jobAds as per prompt text file for 10 sampled bios.
-- generate_CV_CoverLetter.ipynb file to generate and save CV and Cover letter in separate text files.
+- generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 ##
 ## Important Notes
 **Next Meeting:** 15.4.2025, 16h, online
