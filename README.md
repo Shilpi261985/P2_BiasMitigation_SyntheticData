@@ -45,6 +45,11 @@
     - meta-llama/Llama-3.2-3B-Instruct
 - In Readme, describe contents of each (important) notebook.
 - Organize csv folder into subfolders.
+- Further information on the dataset:
+      - Are the gender distributions realistic?
+      - Why are professors so overrepresented?
+      - Does the distribution of samples per job reflect the real-world distribution?
+      - Why these jobs? (Note: all high-skilled, no blue collar)
 ##
 
 ## Progress Reports
