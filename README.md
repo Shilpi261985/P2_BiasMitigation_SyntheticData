@@ -8,7 +8,7 @@ File load_dataset.ipynb :
 - No of samples (10) are extracted as per each profession and saved in separate CSV files. 
 
 ##
-**Next Meeting:** 25.3.2025, 15h, in-person
+**Next Meeting:** 15.4.2025, 16h, online
 
 ## Tasks
 ~~- Download model to GPU server~~
