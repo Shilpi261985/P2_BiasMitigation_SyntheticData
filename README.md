@@ -41,9 +41,14 @@
 ### Summary of main upcoming tasks
 - For now, stick to a single profession.
 - Add ability to mask gender pronouns from bios.
+- Fix truncation with either "max_length" and/or stop token condition.
 - Generate preliminary proxy word lists for gender and choice of race/ethnicity/nationality.
 - Read generated CVs, cover letters, and job ads for existing 10 samples
     - Check for consistency, notes anything that doesn't look right.
+    - If there are inconsistencies try:
+        - Generating CV and cover letter simultaneously
+        - Or using CV as extra input for cover letter
+        - Or use "meta-llama/Llama-3.2-3B-Instruct"
 - Add variable to specify job ad generation type (use_candidate_info)
     - For 'bios' the job ad should be created for the provided pool of 10/100 candidates.
 - Add ability to specify degree level and retrieve corresponding samples from bios.
