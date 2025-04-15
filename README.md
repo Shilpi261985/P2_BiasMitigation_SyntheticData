@@ -1,4 +1,16 @@
-## BiasBios Synthetic Data Generation
+# BiasBios Synthetic Data Generation
+
+## Repository Information
+### Directories
+-prompts:
+-generated_txts:
+-csvs:
+
+### Notebooks
+- load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
+- info_record.ipynb : has all the information and visualisation around dataset.
+- model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU 
+
 #### 11 March 2025
 
 File load_dataset.ipynb : 
