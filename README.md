@@ -28,7 +28,6 @@ File load_dataset.ipynb :
 ~~- Generate text based on prompt saved in seperate txt file~~
 
 ~~- Record information about the dataset in the Readme file:
-
     - Gender distribution overall
     - Gender distributaion per profession
     - Number of samples per profession
@@ -36,6 +35,7 @@ File load_dataset.ipynb :
     - A couple text samples
     - How it was collected
     - Who is the sample population~~
+    
 - Create a (instruction-based) prompt for generating a job ad for a given profession (profession should be a variable).
     - Provide basic template (optional)
     - Provide list of 10 candidate bios
