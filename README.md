@@ -8,7 +8,7 @@
     - prompt_CoverLetter : for prompt used to generate CoverLetter
 - generated_txts:
     - generated_outputs.txt : for saving all generated jobADs (accountant)
-    - generated_jobADs : folder for saving genertaed jobADs (accountant) seperately for 10 bios
+    - generated_jobADs : folder for saving generated jobADs (accountant) seperately for 10 bios
     - CVs_CoverLetter_Accountant : folder for saving generated CVs and CoverLetters (accountant) separately for 10 bios
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
@@ -21,7 +21,7 @@
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 ##
 ## Important Notes
-**Next Meeting:** 15.4.2025, 16h, online
+**Next Meeting:** 29.4.2025, 15h, virtual
 ##
 ## Tasks
 <!-- ~~- Download model to GPU server~~
