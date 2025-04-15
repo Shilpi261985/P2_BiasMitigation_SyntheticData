@@ -3,13 +3,17 @@
 ## Repository Information
 ### Directories
 - prompts:
+    - prompt_template_jobAD.txt: for prompt used to generate jobADs
 - generated_txts:
+    - generated_outputs.txt: for saving generated jobADs
 - csvs:
 
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
-- model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU 
+- model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
+- generate_jobAD.ipynb: for generating jobAds as per prompt text file for 10 sampled bios.
+- generate_CV_CoverLetter.ipynb file to generate and save CV and Cover letter in separate text files.
 ##
 ## Important Notes
 **Next Meeting:** 15.4.2025, 16h, online
