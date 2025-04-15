@@ -1,0 +1,5 @@
+"Generate a professional CV based on the following biography:\n\n{bio}\n\n"
+
+Generated CV:
+
+

@@ -1,0 +1,4 @@
+"Write a personalized cover letter for the following biography:\n\n{bio}\n\n
+
+Generated CoverLetter: 
+
