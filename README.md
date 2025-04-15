@@ -24,8 +24,11 @@ File load_dataset.ipynb :
 
 ## Tasks
 ~~- Download model to GPU server~~
+
 ~~- Generate text based on prompt saved in seperate txt file~~
+
 ~~- Record information about the dataset in the Readme file:
+
     - Gender distribution overall
     - Gender distributaion per profession
     - Number of samples per profession
