@@ -79,7 +79,10 @@ File load_dataset.ipynb :
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
-- Updated src folder with generate_jobAD.ipynb for generating jobAds as per prompt text file for 10 sampled bios.
-- updated prompts folder with prompt_template_jobAD.txt file for prompt used to generate jobADs
-- created new folder generated_txts to save file generated_outputs.txt for saving generated jobADs
-- uploaded generate_CV_CoverLetter.ipynb file to generate and save CV and Coverletter in sepearte text files.
+- generate_jobAD.ipynb : for generating jobAds as per prompt text file for 10 sampled bios.
+- prompt_template_jobAD.txt : file for prompt used to generate jobADs
+- created new folder generated_txts to save file generated_outputs.txt for saving all generated jobADs
+- generate_CV_CoverLetter.ipynb : file to generate and save CV and Coverletter in sepearte text files.
+- prompt_CV.txt : file for prompt to generate CV
+- prompt_CoverLetter.txt : file for prompt to generate Cover Letter
+- saved genertaed CVs, CoverLetter and Job Ads for 'Accountant' under 'generated_txts' folder
