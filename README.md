@@ -10,10 +10,10 @@
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU 
-
+##
 ## Important Notes
 **Next Meeting:** 15.4.2025, 16h, online
-
+##
 ## Tasks
 ~~- Download model to GPU server~~
 
@@ -45,6 +45,7 @@
     - meta-llama/Llama-3.2-3B-Instruct
 - In Readme, describe contents of each (important) notebook.
 - Organize csv folder into subfolders.
+##
 
 ## Progress Reports
 #### 11 March 2025
@@ -65,7 +66,6 @@ File load_dataset.ipynb :
     - generated CV and cover letter
     - (both have some issues, need to be discussed)
 
-##
 #### 13 April 2025
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
