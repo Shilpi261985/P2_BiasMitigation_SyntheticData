@@ -11,15 +11,7 @@
 - info_record.ipynb : has all the information and visualisation around dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU 
 
-#### 11 March 2025
-
-File load_dataset.ipynb : 
-- Loads the BiasBios Dataset from  https://huggingface.co/datasets/LabHC/bias_in_bios 
-- As the data is already split in train, test and dev, we need to concatenate the data to get one whole dataframe. 
-- Mapping of the occupation with the 'profession' column as described in Bias_in_Bios Dataset documentation, also mapping of gender column with 'Male' and 'Female' 
-- No of samples (10) are extracted as per each profession and saved in separate CSV files. 
-
-##
+## Important Notes
 **Next Meeting:** 15.4.2025, 16h, online
 
 ## Tasks
@@ -54,7 +46,14 @@ File load_dataset.ipynb :
 - In Readme, describe contents of each (important) notebook.
 - Organize csv folder into subfolders.
 
-##
+## Progress Reports
+#### 11 March 2025
+
+File load_dataset.ipynb : 
+- Loads the BiasBios Dataset from  https://huggingface.co/datasets/LabHC/bias_in_bios 
+- As the data is already split in train, test and dev, we need to concatenate the data to get one whole dataframe. 
+- Mapping of the occupation with the 'profession' column as described in Bias_in_Bios Dataset documentation, also mapping of gender column with 'Male' and 'Female' 
+- No of samples (10) are extracted as per each profession and saved in separate CSV files. 
 #### 18 March 2025
 - Finished tasks:    
     - uploaded dataset locally    
