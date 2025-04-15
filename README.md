@@ -50,7 +50,7 @@
         - Or using CV as extra input for cover letter
         - Or use "meta-llama/Llama-3.2-3B-Instruct"
 - Add variable to specify job ad generation type (use_candidate_info)
-    - For 'bios' the job ad should be created for the provided pool of 10/100 candidates.
+    - For 'use_candidate_info' the job ad should be created for the provided pool of 10/100 candidates.
 - Add ability to specify degree level and retrieve corresponding samples from bios.
             
             generate_job_ad(profession, gender = False, other_requirements = None, use_candidate_info = False, candidate_bios):
