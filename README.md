@@ -2,9 +2,9 @@
 
 ## Repository Information
 ### Directories
--prompts:
--generated_txts:
--csvs:
+- prompts:
+- generated_txts:
+- csvs:
 
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
