@@ -10,6 +10,7 @@
     - generated_outputs.txt : for saving all generated jobADs (accountant)
     - generated_jobADs : folder for saving generated jobADs (accountant) seperately for 10 bios
     - CVs_CoverLetter_Accountant : folder for saving generated CVs and CoverLetters (accountant) separately for 10 bios
+    - proxy_words.txt : generated proxy words, phrases that can show a persons (gender, race, ethinicity or nationality)
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 
