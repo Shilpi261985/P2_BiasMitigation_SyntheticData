@@ -175,3 +175,11 @@ File load_dataset.ipynb :
 - prompt_CV.txt : file for prompt to generate CV
 - prompt_CoverLetter.txt : file for prompt to generate Cover Letter
 - saved genertaed CVs, CoverLetter and Job Ads for 'Accountant' under 'generated_txts' folder
+
+
+#### 01 May 2025
+- loaded proxy_words.txt file for proxy words and phrases to be used to check biases, in generated text folder.
+- while checking qulaity and discrepancies in generated texts, i have found:
+      - Cover Letters: in many cover letters 'names' didnot appear, even when they were given in Bios.
+      - CVs: generation of many CVs halted apruptly. At one place, even the sentence from Bio was genertaed as a third person.
+      - Job Ads: mostly all generations halted incomplete.
