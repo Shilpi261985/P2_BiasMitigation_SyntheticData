@@ -15,11 +15,12 @@
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 
 ### Sensitive attributes
-- gender
-- race/nationality/ethnicity
-- disability
-- age
-- religion
+- gender: male, female
+- race/nationality/ethnicity: black, hispanic, middle eastern, asian
+- age: 20-30,30-40,40-50,50+
+- religion: 
+*- disability: physical, mental*
+
 
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
@@ -47,16 +48,26 @@
 
 ~~- In Readme, describe contents of each (important) notebook.~~ -->
 ### Summary of main upcoming tasks
-- For now, stick to a single profession.
-- Add ability to mask gender pronouns from bios.
-- Fix truncation with either "max_length" and/or stop token condition.
-- Generate preliminary proxy word lists for gender and choice of race/ethnicity/nationality.
+- For now, stick to a single profession (accountant).
+- CV\Cover letter generation
+  - No names or contact information.
+  - Instructions to make it easy to extract only the relevant text from the response.
+  - Make sure any invented details are consistent with the bio, use real place names (companies/universities) as much as possible.
+- Identify obvious gender words in original dataset and save (identified as male or female)
+      - gender pronouns (he\him\his, she\her\hers, they\them\theirs)
+      - Names (probably use a "names" or "proper nouns" NLP library, e.g., spacy)
+      - husband, father etc. (probably you can generate or find online)
+- Add ability to mask gender words from bios. 
+- Generate preliminary proxy word lists for gender.
+    - From dataset: https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing (similar to this notebook, but with gender classification)
+    - Try also after removing gender pronouns and names.
+    - Also, try on the generated CVs/Cover letters.
 - Read generated CVs, cover letters, and job ads for existing 10 samples
     - Check for consistency, notes anything that doesn't look right.
     - If there are inconsistencies try:
         - Generating CV and cover letter simultaneously
         - Or using CV as extra input for cover letter
-        - Or use "meta-llama/Llama-3.2-3B-Instruct"
+- Compare old model to "meta-llama/Llama-3.2-3B-Instruct"
 - Add variable to specify job ad generation type (use_candidate_info)
     - For 'use_candidate_info' the job ad should be created for the provided pool of 10/100 candidates.
 - Add ability to specify degree level and retrieve corresponding samples from bios.
@@ -127,29 +138,29 @@
     - Only take text after "Generated job ad:" as response (so that you don't reprint the model input in your output).
     - (Optional) Experiment with different levels of seniority/desired candidates attributes in general. -->
 - CV and cover letter generation
-    - **Add option to specify gender (combined with masking pronouns)**
-    - **Add option to specifiy other sensitive attributes**
+    - **Add option to include/exclude gender information (combined with masking pronouns)**
+<!---    - **Add option to specifiy other sensitive attributes**  -->
     - Add option to include proxy words
     - Generate CV and cover letter together (if there are consistency issues)
     <!-- - It would be best to include an option for whether or not the gender is used in generating the application.
     - Include ability to specify race/nationality/ethnicity.
     - Include words/sentences that are "proxies" for e.g. gender/race. ("My main hobby is knitting vs. My main hobby is football.") -->
-- **Expand generation into a framework generating job applications for multiple samples and saving in CSV file.**
+<!---- **Expand generation into a framework generating job applications for multiple samples and saving in CSV file.**
     - Should save as augmented subset of BiasBios dataset with job_ad_id in filename and extra columns for the CV and Cover letter
         - e.g., 'generated_txts/accountant/job_ad_id/100_random_no_gender.csv' containing 10 accountant samples augmented with CV and cover letter
-        - And job ad could be saved to 'generated_txts/job_ad_id/job_ad.txt' along with the corresponding prompt 'generated_txts/job_ad_id/prompt.txt'
+        - And job ad could be saved to 'generated_txts/job_ad_id/job_ad.txt' along with the corresponding prompt 'generated_txts/job_ad_id/prompt.txt' -->
 <!-- - Compare available models on HF in terms of pros and cons for our task.
     - meta-llama/Llama-3.2-1B-Instruct
     - meta-llama/Llama-3.2-3B-Instruct -->
 
 <!-- - Organize csv folder into subfolders. -->
-- Further information on the dataset:
+<!--- Further information on the dataset:
     - Are the gender distributions realistic?
     - Why are professors so overrepresented?
     - Does the distribution of samples per job reflect the real-world distribution?
     - Why these jobs? Just by frequency? (Note: all high-skilled, no blue collar)
 
-- Create easy webUI for experimentation
+- Create easy webUI for experimentation -->
 ##
 
 ## Progress Reports
