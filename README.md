@@ -1,4 +1,5 @@
 # BiasBios Synthetic Data Generation
+## Rough Project Timeline
 
 ## Repository Information
 ### Directories
@@ -14,13 +15,6 @@
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 
-### Sensitive attributes
-- gender: male, female
-- race/nationality/ethnicity: black, hispanic, middle eastern, asian
-- age: 20-30,30-40,40-50,50+
-- religion: 
-*- disability: physical, mental*
-
 
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
@@ -30,8 +24,14 @@
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 ##
 ## Important Notes
-**Next Meeting:** 29.4.2025, 15h, virtual
+**Next Meeting:** 13.5.2025, 15h, virtual
 ##
+### Sensitive attributes
+- gender: male, female
+- race/nationality/ethnicity: black, hispanic, middle eastern, asian
+- age: 20-30,30-40,40-50,50+
+- religion: 
+*- disability: physical, mental*
 ## Tasks
 <!-- ~~- Download model to GPU server~~
 
@@ -47,30 +47,34 @@
     - Who is the sample population~~
 
 ~~- In Readme, describe contents of each (important) notebook.~~ -->
-### Summary of main upcoming tasks
+### Tasks
+- Forward me info about timeline and requirements for writeup.
+- Finalize the job ad.
 - For now, stick to a single profession (accountant).
 - CV\Cover letter generation
   - No names or contact information.
   - Instructions to make it easy to extract only the relevant text from the response.
   - Make sure any invented details are consistent with the bio, use real place names (companies/universities) as much as possible.
+  - **Add option to include/exclude gender information (including proxy words) before generation**
 - Identify obvious gender words in original dataset and save (identified as male or female)
-      - gender pronouns (he\him\his, she\her\hers, they\them\theirs)
-      - Names (probably use a "names" or "proper nouns" NLP library, e.g., spacy)
-      - husband, father etc. (probably you can generate or find online)
-- Add ability to mask gender words from bios. 
-- Generate preliminary proxy word lists for gender.
+    - gender pronouns (he\him\his, she\her\hers, they\them\theirs)
+    - Names (probably use a "names" or "proper nouns" NLP library, e.g., spacy)
+    - husband, father etc. (probably you can generate or find online)
+- Generate preliminary proxy word lists for gender using classifier.
     - From dataset: https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing (similar to this notebook, but with gender classification)
     - Try also after removing gender pronouns and names.
     - Also, try on the generated CVs/Cover letters.
+- Generate preliminary proxy word lists using genAI
+    - pronouns
+    - social/familial/workplace roles
+    - personality traits
+    - e.g. 'Generate 10 words or phrases related to social roles that may appear in bios, CVs, or cover letters for accountants that could be proxies for gender.'
 - Read generated CVs, cover letters, and job ads for existing 10 samples
     - Check for consistency, notes anything that doesn't look right.
-    - If there are inconsistencies try:
-        - Generating CV and cover letter simultaneously
-        - Or using CV as extra input for cover letter
 - Compare old model to "meta-llama/Llama-3.2-3B-Instruct"
-- Add variable to specify job ad generation type (use_candidate_info)
-    - For 'use_candidate_info' the job ad should be created for the provided pool of 10/100 candidates.
-- Add ability to specify degree level and retrieve corresponding samples from bios.
+<!-- - Add variable to specify job ad generation type (use_candidate_info)
+    - For 'use_candidate_info' the job ad should be created for the provided pool of 10/100 candidates. -->
+<!-- - Add ability to specify degree level and retrieve corresponding samples from bios.
             
             generate_job_ad(profession, gender = False, other_requirements = None, use_candidate_info = False, candidate_bios):
                 '''
@@ -90,12 +94,14 @@
                 '''
                 Function for creating desired pool of applicants for job ad generation.
                 '''
-                return extracted_bios_samples
-- For CV/cover letters
-    - Add option to specify gender (combined with masking pronouns), this should also be an option for job ad creation
-    - Add option to specifiy other sensitive attributes
+                return extracted_bios_samples -->
 
-            generate_CV_CoverLetter(profession, bio, gender = False, other_attributes = None, proxy_words = None):
+<!---    - **Add option to specifiy other sensitive attributes**  -->
+<!-- - Add option to include proxy words
+    <!-- - Add option to specify gender (combined with masking pronouns), this should also be an option for job ad creation
+    <!-- - Add option to specifiy other sensitive attributes -->
+
+<!-- generate_CV_CoverLetter(profession, bio, gender = False, other_attributes = None, proxy_words = None):
                 '''
                 If gender == false, then mask gender pronouns and do not specify gender label.
 
@@ -105,19 +111,19 @@
                 proxy_words: list of proxy words for specified sensitive attributes.
                 '''
                 ...
-                return generated_text
-- Make sure files are saved as augmented csvs in a nice way (see below)
+                return generated_text -->
+<!-- - Make sure files are saved as augmented csvs in a nice way (see below) -->
 
-### Detailed tasklist 
-- **Prelimnary proxy wordlists**
-    - Generate a list of 10 proxy words (or sentences) likely to appear in a CV or cover letter for a position as a [Profession] that would implicitly indicate that the applicant is [GENDER/RACE/NATIONALITY]. 
+<!-- ### Detailed tasklist  -->
+<!-- - **Prelimnary proxy wordlists**
+    - Generate a list of 10 proxy words (or sentences) likely to appear in a CV or cover letter for a position as a [Profession] that would implicitly indicate that the applicant is [GENDER/RACE/NATIONALITY].  -->
 
-- **Read generated 10 CVs, cover letters, and job ads for existing 10 accountant samples**
+<!-- - **Read generated 10 CVs, cover letters, and job ads for existing 10 accountant samples**
     - Check for consistency/quality
-    - Compare Llama-3.2-3B-Instruct (especially if there are many consistency issues)
-
-- Add ability to mask gender pronouns in bios (if we don't want to include gender information to generate letters, we want to mask this info)  
-- Job-ad generation:
+    - Compare Llama-3.2-3B-Instruct (especially if there are many consistency issues) -->
+<!-- 
+- Add ability to mask gender pronouns in bios (if we don't want to include gender information to generate letters, we want to mask this info)   -->
+<!-- - Job-ad generation:
     - VARIANTS:
         - Basic template (no info besides profession)
         - DONE: Bespoke job ad (written for a specific candidate)
@@ -129,20 +135,17 @@
         - Gender
         - Other sensitive attributes
         - Instruction to write/adapt for specific demographic group
-        - **Other job requirements (education level etc.)**
-
+        - **Other job requirements (education level etc.)** -->
+<!-- 
     <!-- - Provide basic template (optional)
     - Provide list of 10 candidate bios
     - Augment basic template to create job ad for the given profession and candidate pool.
     - End prompt with "Generated job ad:"
     - Only take text after "Generated job ad:" as response (so that you don't reprint the model input in your output).
-    - (Optional) Experiment with different levels of seniority/desired candidates attributes in general. -->
-- CV and cover letter generation
-    - **Add option to include/exclude gender information (combined with masking pronouns)**
-<!---    - **Add option to specifiy other sensitive attributes**  -->
-    - Add option to include proxy words
-    - Generate CV and cover letter together (if there are consistency issues)
-    <!-- - It would be best to include an option for whether or not the gender is used in generating the application.
+    - (Optional) Experiment with different levels of seniority/desired candidates attributes in general. --> -->
+
+
+ <!-- - It would be best to include an option for whether or not the gender is used in generating the application.
     - Include ability to specify race/nationality/ethnicity.
     - Include words/sentences that are "proxies" for e.g. gender/race. ("My main hobby is knitting vs. My main hobby is football.") -->
 <!---- **Expand generation into a framework generating job applications for multiple samples and saving in CSV file.**
