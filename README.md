@@ -14,6 +14,13 @@
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 
+### Sensitive attributes
+- gender
+- race/nationality/ethnicity
+- disability
+- age
+- religion
+
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
