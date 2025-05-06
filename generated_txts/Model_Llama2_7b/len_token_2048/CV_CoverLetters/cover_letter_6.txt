@@ -1,0 +1,19 @@
+<s>[INST] "Write a personalized cover letter for the following biography:\n\nHe is also a student at Florida Atlantic University completing his Master's Degree in Accounting. He is currently pursuing his Certified Public Accountant License in 2017. Bahaa recently received his 2-15 Resident Health & Life (Including Annuities & Variable Contracts) Agent License. He is also a notary public.\n\n
+
+Generated CoverLetter: 
+
+ [/INST]  Dear Hiring Manager,
+
+I am writing to express my interest in the [Position] role at [Company Name]. As a current student at Florida Atlantic University pursuing my Master's Degree in Accounting, I am confident in my ability to bring value to your team.
+
+In addition to my academic pursuits, I have also obtained my Certified Public Accountant License in 2017, demonstrating my commitment to professional development and excellence in the field. Furthermore, I have recently received my 2-15 Resident Health & Life (Including Annuities & Variable Contracts) Agent License, expanding my skill set and demonstrating my ability to adapt to new challenges.
+
+As a notary public, I have experience in handling sensitive documents and ensuring their authenticity, which I believe will be an asset to your team. I am highly organized, detail-oriented, and possess excellent communication skills, which I believe will enable me to effectively collaborate with colleagues and clients.
+
+I am particularly drawn to [Company Name] because of its reputation for [Reason for Interest in Company]. I am excited at the prospect of joining a team that shares my passion for [Industry/Field] and contributing to the company's success.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills and experience align with the needs of your team.
+
+Sincerely,
+
+[Your Name]

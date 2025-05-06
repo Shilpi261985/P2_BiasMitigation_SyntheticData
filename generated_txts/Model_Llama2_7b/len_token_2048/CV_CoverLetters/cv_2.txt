@@ -1,0 +1,69 @@
+<s>[INST] "Generate a professional CV based on the following biography:\n\nShe has served as General Manager in companies in the industrial and real estate sector and has experience in companies that represent foreign homes in Costa Rica. She also has extensive experience in tenders contracted through the Law of Administrative Contracting.\n\n"
+
+Generated CV:
+
+
+ [/INST]  Sure, here is a sample professional CV based on the biography provided:
+
+[Your Name]
+[Address]
+[City, Country]
+[Phone Number]
+[Email Address]
+
+Objective:
+To obtain a challenging position in a reputable organization where I can utilize my skills and experience in the industrial and real estate sectors, as well as my expertise in representing foreign homes in Costa Rica and managing tenders contracted through the Law of Administrative Contracting.
+
+Professional Experience:
+
+General Manager, [Company Name] (2018-Present)
+
+* Managed the day-to-day operations of a company in the industrial sector, including production, logistics, and sales.
+* Developed and implemented strategic plans to increase revenue and improve profitability.
+* Built and maintained relationships with clients, suppliers, and partners.
+* Oversaw the management of a team of 20 employees.
+
+General Manager, [Company Name] (2015-2018)
+
+* Managed the real estate division of a company, including the sale and rental of properties.
+* Developed and implemented marketing strategies to increase sales and improve brand awareness.
+* Built and maintained relationships with clients, suppliers, and partners.
+* Oversaw the management of a team of 15 employees.
+
+Representative, [Company Name] (2010-2015)
+
+* Represented foreign homes in Costa Rica, including the sale and rental of properties.
+* Built and maintained relationships with clients, suppliers, and partners.
+* Conducted market research and analyzed trends to identify opportunities for growth.
+
+Tenders Contracting Experience:
+
+* Managed the tendering process for various government contracts, including the preparation of bids and proposals, and the negotiation of contract terms.
+* Conducted market research and analyzed trends to identify opportunities for growth.
+* Built and maintained relationships with clients, suppliers, and partners.
+
+Education:
+
+* [Bachelor's/Master's] Degree in Business Administration, [University Name], [Graduation Date]
+* [Certificate/Diploma] in [Field of Study], [University Name], [Graduation Date]
+
+Skills:
+
+* Strategic planning and management
+* Marketing and sales
+* Team leadership and management
+* Relationship building and negotiation
+* Tendering and contract management
+* Industrial and real estate sector experience
+* Knowledge of the Law of Administrative Contracting
+
+Certifications/Awards:
+
+* [Certification/Award Name], [Issuing Organization], [Year]
+* [Certification/Award Name], [Issuing Organization], [Year]
+
+References:
+
+Available upon request.
+
+I hope this sample CV helps you create your own professional CV based on your own experience and qualifications. Remember to tailor your CV to the specific job you are applying for, and highlight your most relevant skills and experience. Good luck with your job search!

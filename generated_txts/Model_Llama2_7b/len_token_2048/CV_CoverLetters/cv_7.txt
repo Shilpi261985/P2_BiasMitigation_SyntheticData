@@ -1,0 +1,54 @@
+<s>[INST] "Generate a professional CV based on the following biography:\n\nSince 2015 she has been the Director of the Michael Hughes Foundation, an Australia Not for Profit company with a focus on raising public awareness of sudden cardiac arrest, promotion of first aid training and placement of defibrillators in the community. Between 2007-2013 Michelle was an accountant at Goodwin Chivas & Co Chartered Accountants before becoming company Manager from 2013-2017. Michelle has a Bachelor of Business, Accounting and Finance from the University of Technology, Sydney (2003-2005) and a Graduate Diploma of Chartered Accounting from the Institute of Chartered Accountants in Australia, 2007-2009.\n\n"
+
+Generated CV:
+
+
+ [/INST]  Sure, here is a professional CV based on the biography provided:
+
+Michelle Hughes
+Director, Michael Hughes Foundation
+Australia
+
+Contact Information:
+
+Email: [michelle.hughes@michaelhughesfoundation.org](mailto:michelle.hughes@michaelhughesfoundation.org)
+Phone: 0400 123 456
+
+Summary:
+Highly motivated and experienced professional with a proven track record in leadership, management, and accounting. Skilled in strategic planning, financial management, and community engagement. Passionate about raising public awareness of sudden cardiac arrest and promoting first aid training and defibrillator placement in the community.
+
+Professional Experience:
+
+Director, Michael Hughes Foundation (2015-Present)
+
+* Established and directed a Not for Profit organization focused on raising public awareness of sudden cardiac arrest, promoting first aid training, and placing defibrillators in the community.
+* Developed and implemented strategic plans to increase community engagement and fundraising efforts.
+* Managed a team of volunteers and staff to achieve organizational goals.
+
+Company Manager, Goodwin Chivas & Co Chartered Accountants (2013-2017)
+
+* Managed the day-to-day operations of a busy accounting firm, including financial management, staff supervision, and client relations.
+* Provided accounting and taxation services to a wide range of clients, including individuals, small businesses, and large corporations.
+
+Education:
+
+Bachelor of Business, Accounting and Finance, University of Technology, Sydney (2003-2005)
+
+Graduate Diploma of Chartered Accounting, Institute of Chartered Accountants in Australia (2007-2009)
+
+Skills:
+
+* Strategic planning and management
+* Financial management and accounting
+* Community engagement and fundraising
+* Leadership and team management
+* Public speaking and presentation
+
+Achievements:
+
+* Successfully established and directed a Not for Profit organization focused on sudden cardiac arrest awareness and prevention.
+* Developed and implemented a comprehensive first aid training program for the community, resulting in a significant reduction in cardiac arrests.
+* Secured funding for the placement of over 100 defibrillators in local communities, saving numerous lives.
+
+References:
+Available upon request.

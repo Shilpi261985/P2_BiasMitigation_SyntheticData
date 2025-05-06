@@ -1,0 +1,18 @@
+<s>[INST] "Write a personalized cover letter for the following biography:\n\nIn addition, Jaime holds a bachelor&apos;s degree in accounting and a master&apos;s degree in accounting and information management. She is committed to a holistic approach to educate and empower others to attain their personal, business and financial goals.\n\n
+
+Generated CoverLetter: 
+
+ [/INST]  Dear Hiring Manager,
+
+I am writing to express my interest in the [Position] role at [Company], as I believe my skills and experience align with the position's requirements. As a highly motivated and dedicated professional, I am confident that I can make a significant contribution to your team.
+
+I am particularly drawn to [Company] because of its commitment to a holistic approach to education and empowerment. As someone who holds a bachelor's degree in accounting and a master's degree in accounting and information management, I understand the importance of a well-rounded approach to personal, business, and financial growth. I am passionate about helping others achieve their goals and believe that a comprehensive approach is essential for long-term success.
+
+In my current role at [Current Company], I have gained valuable experience in [specific skills or experience]. I have also developed a strong ability to [specific skill or ability]. I am excited about the opportunity to bring these skills to [Company] and contribute to the success of your team.
+
+In addition to my professional experience, I am a strong communicator and collaborator. I have a proven track record of working effectively with colleagues and clients to achieve shared goals. I am also an adaptable and resilient individual, able to thrive in a fast-paced and dynamic environment.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how I can contribute to [Company] and help drive success in the [Position] role.
+
+Sincerely,
+[Your Name]
