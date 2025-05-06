@@ -1,0 +1,49 @@
+<s>[INST] "Generate a professional CV based on the following biography:\n\nIn addition, Jaime holds a bachelor&apos;s degree in accounting and a master&apos;s degree in accounting and information management. She is committed to a holistic approach to educate and empower others to attain their personal, business and financial goals.\n\n"
+
+Generated CV:
+
+
+ [/INST]  Sure, here is a sample professional CV based on the biography provided:
+
+Jaime Smith
+
+Contact Information:
+
+* Email: [jsmith@email.com](mailto:jsmith@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/jaimesmith
+
+Summary:
+Highly motivated and experienced accounting professional with a strong educational background in accounting and information management. Committed to providing holistic and empowering education and support to individuals and businesses to attain their personal, business, and financial goals.
+
+Professional Experience:
+
+Accountant, XYZ Company (2018-Present)
+
+* Prepare and review financial statements, including balance sheets, income statements, and cash flow statements
+* Conduct audits and ensure compliance with accounting standards and regulations
+* Provide financial analysis and planning to support business growth and development
+* Manage and maintain accounting software and systems
+
+Master of Accounting and Information Management, ABC University (2016)
+
+* Coursework included financial reporting, taxation, auditing, and financial management
+* Completed research on the impact of technology on accounting and financial management
+
+Bachelor of Accounting, DEF University (2014)
+
+* Coursework included financial accounting, managerial accounting, taxation, and financial management
+* Completed internship with a local accounting firm, gaining hands-on experience in accounting and financial management
+
+Skills:
+
+* Strong knowledge of accounting principles and regulations
+* Proficient in accounting software and systems, including QuickBooks and Xero
+* Excellent analytical and problem-solving skills
+* Strong communication and interpersonal skills
+* Ability to work well under pressure and meet deadlines
+
+References:
+Available upon request.
+
+I hope this helps! Let me know if you have any questions or need further assistance.

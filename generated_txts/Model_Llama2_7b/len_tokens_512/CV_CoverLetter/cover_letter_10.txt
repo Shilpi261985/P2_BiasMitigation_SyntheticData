@@ -1,0 +1,31 @@
+<s>[INST] "Write a personalized cover letter for the following biography:\n\nThe chief financial officer has a diverse background and more than 14 years in the health care industry. Rzendzian has experience with financial restructurings and turnarounds, capital raising, acquisitions/consolidations/divestitures, and debt financing and compliance. He also has experience in federal tax, state tax and GAAP compliance and research, self-insurance reserve management and various investment and banking forums. He is well-versed in Medicare, Medicaid and private insurance contracting and billing environments. Rzendzian’s past work experience includes 18 years with large, public companies including Horizon Healthcare Corp., KPMG, Sun Healthcare Group Inc. and The First National Bank in Albuquerque. He earned his accounting MBA from the R.O. Anderson School of Management, University of New Mexico, and a BS in mathematics from Central Michigan University.\n\n
+
+Generated CoverLetter: 
+
+ [/INST]  [Your Name]
+[Your Address]
+[City, State Zip]
+[Phone Number]
+[Email Address]
+
+[Date]
+
+[Recipient's Name]
+[Recipient's Title]
+[Company Name]
+[Company Address]
+[City, State Zip]
+
+Dear [Recipient's Name],
+
+I am writing to express my strong interest in the Chief Financial Officer position at [Company Name]. As a seasoned financial professional with over 14 years of experience in the healthcare industry, I am confident that I possess the skills and expertise necessary to make a significant contribution to your organization.
+
+My diverse background in financial management, including financial restructurings and turnarounds, capital raising, acquisitions/consolidations/divestitures, and debt financing and compliance, aligns perfectly with the needs of [Company Name]. My experience in federal tax, state tax, and GAAP compliance, as well as self-insurance reserve management, will enable me to provide strategic financial guidance and ensure regulatory compliance. Additionally, my knowledge of Medicare, Medicaid, and private insurance contracting and billing environments will be invaluable in navigating the complex healthcare landscape.
+
+I am particularly impressed by [Company Name]'s commitment to [Company Mission/Values]. As a fellow professional dedicated to [Industry/Field], I share this commitment and am eager to contribute to an organization that prioritizes [Mission/Value]. My experience at large, public companies such as Horizon Healthcare Corp., KPMG, Sun Healthcare Group Inc., and The First National Bank in Albuquerque has provided me with a unique understanding of the challenges and opportunities facing organizations in the healthcare industry.
+
+I am excited at the prospect of joining [Company Name] and contributing to the success of your team. Thank you for considering my application. I would welcome the opportunity to discuss my qualifications further and how I can contribute to the growth and success of your organization.
+
+Sincerely,
+
+[Your Name]
