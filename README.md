@@ -200,7 +200,7 @@ File load_dataset.ipynb :
 
 #### 01 May 2025
 - loaded proxy_words.txt file for proxy words and phrases to be used to check biases, in generated text folder.
-- while checking quality and discrepancies in generated texts, i have found:
+- while checking quality and discrepancies with model **'Llama-2-7b'** in generated texts, i have found:
   - Cover Letters: in many cover letters 'names' didnot appear, even when they were given in Bios.
   - CVs: generation of many CVs halted apruptly. At one place, even the sentence from Bio was genertaed as a third person.
   - Job Ads: mostly all generations halted incomplete.
