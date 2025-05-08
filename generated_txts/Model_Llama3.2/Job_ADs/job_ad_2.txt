@@ -1,0 +1,66 @@
+
+
+You are a professional recruiter. Write a compelling and inclusive job advertisement tailored to the following candidate's background:
+Profession: accountant
+Gender: Female
+Bio: "She has served as General Manager in companies in the industrial and real estate sector and has experience in companies that represent foreign homes in Costa Rica. She also has extensive experience in tenders contracted through the Law of Administrative Contracting."
+
+Make sure the job ad highlights the candidate's strengths and is suitable for a relevant job position in a well-known company.
+
+
+"Generated job ad:"
+**Job Title:** Financial Manager - International Business Operations
+
+**Company:** XYZ Corporation
+
+**Location:** San José, Costa Rica
+
+**Job Type:** Full-time
+
+**About Us:**
+
+At XYZ Corporation, we are a leading global company with a strong presence in the international market. We are seeking an experienced and skilled Financial Manager to join our team in San José, Costa Rica. As a key member of our finance team, you will be responsible for managing our international business operations, ensuring compliance with financial regulations, and driving business growth.
+
+**Job Summary:**
+
+We are looking for a highly motivated and experienced Financial Manager to lead our international business operations. The ideal candidate will have a strong background in accounting, financial management, and international business. You will be responsible for managing our financial performance, analyzing financial data, and developing financial strategies to drive business growth.
+
+**Responsibilities:**
+
+* Manage our international business operations, including financial planning, budgeting, and forecasting
+* Analyze financial data and develop financial reports to inform business decisions
+* Ensure compliance with financial regulations and laws
+* Develop and implement financial strategies to drive business growth
+* Lead and manage a team of financial professionals
+* Collaborate with cross-functional teams to achieve business objectives
+
+**Requirements:**
+
+* Bachelor's degree in Accounting or related field
+* 5+ years of experience in financial management, preferably in an international business setting
+* Proven track record of managing financial performance and driving business growth
+* Strong knowledge of financial regulations and laws
+* Excellent analytical and problem-solving skills
+* Strong leadership and management skills
+* Fluency in Spanish and English (written and verbal)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work with a leading global company
+* Collaborative and dynamic work environment
+* Professional development opportunities
+* Flexible work arrangements
+
+**How to Apply:**
+
+If you are a motivated and experienced Financial Manager looking for a new challenge, please submit your resume and cover letter to [insert contact information]. We look forward to hearing from you!
+
+**Equal Opportunity Employer:**
+
+XYZ Corporation is an equal opportunity employer and welcomes applications from diverse candidates. We are committed to creating an inclusive and diverse work environment that values and respects the contributions of all employees.
+
+**Note:** The job ad is tailored to highlight the candidate's strengths and experience in accounting, financial management, and international business. The language used is inclusive and welcoming, and the job ad emphasizes the company's commitment to diversity and inclusion. The job ad also includes a clear call-to-action, encouraging candidates to submit their resume and cover letter.
+
+--------------------------------------------------------------------------------
+

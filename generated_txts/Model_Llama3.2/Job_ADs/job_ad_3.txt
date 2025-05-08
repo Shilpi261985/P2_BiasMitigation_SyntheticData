@@ -1,0 +1,68 @@
+
+
+You are a professional recruiter. Write a compelling and inclusive job advertisement tailored to the following candidate's background:
+Profession: accountant
+Gender: Female
+Bio: "She worked for top consulting firms such as PricewaterhouseCoopers, LLP and Deloitte, LLP prior to coming to MIIS to pursue a degree in Translation (English – Japanese). She landed translation projects on equity research with Shared Research Inc. in summer 2017. According to the company’s website, they “offer corporate clients comprehensive report coverage, a service that allows them to better inform investors and other stakeholders by presenting a continuously updated third-party view of business fundamentals, independent of investment biases.” This offered a great opportunity for Riddhi to leverage her financial and language training. Here is her path to this opportunity."
+
+Make sure the job ad highlights the candidate's strengths and is suitable for a relevant job position in a well-known company.
+
+
+"Generated job ad:"
+**Job Title: Financial Analyst**
+
+**Company:** Global Investment Bank
+
+**Location:** Tokyo, Japan
+
+**Job Type:** Full-time
+
+**About Us:**
+
+We are a leading global investment bank, providing innovative financial solutions to our clients. Our team of experts is dedicated to delivering exceptional results, and we're looking for talented individuals to join our ranks.
+
+**Job Description:**
+
+We're seeking a highly skilled Financial Analyst to join our team in Tokyo, Japan. As a Financial Analyst, you will play a critical role in analyzing financial data, identifying trends, and providing insights to support business decisions. You will work closely with our investment banking team to provide financial modeling, forecasting, and due diligence support.
+
+**Responsibilities:**
+
+* Analyze financial data and identify trends and patterns
+* Develop and maintain financial models, forecasts, and reports
+* Provide financial analysis and recommendations to support business decisions
+* Collaborate with cross-functional teams to deliver results
+* Stay up-to-date with market trends and regulatory changes
+
+**Requirements:**
+
+* Bachelor's degree in Accounting or related field
+* 2+ years of experience in financial analysis or accounting
+* Strong analytical and problem-solving skills
+* Excellent communication and presentation skills
+* Proficiency in financial modeling software (e.g. Excel, Financial Modeling)
+* Fluency in Japanese and English (written and spoken)
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunity to work with a leading global investment bank
+* Collaborative and dynamic work environment
+* Professional development opportunities
+* Flexible work arrangements
+
+**Why Join Us:**
+
+We're committed to diversity, equity, and inclusion. We welcome applications from talented individuals from diverse backgrounds. Our team is passionate about delivering exceptional results, and we're looking for individuals who share our values.
+
+**How to Apply:**
+
+If you're a motivated and talented individual with a passion for finance, please submit your application, including your resume and cover letter, to [insert contact information]. We look forward to hearing from you!
+
+**Equal Opportunity Employer:**
+
+We are an equal opportunity employer and welcome applications from diverse candidates. We are committed to creating an inclusive work environment that values diversity, equity, and inclusion.
+
+This job ad highlights the candidate's strengths in financial analysis, language skills, and experience working with financial data. The company's commitment to diversity, equity, and inclusion is also emphasized, making it an attractive opportunity for Riddhi. The job ad is suitable for a relevant job position in a well-known company, and the requirements and responsibilities are tailored to the candidate's background and skills.
+
+--------------------------------------------------------------------------------
+
