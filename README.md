@@ -205,3 +205,8 @@ File load_dataset.ipynb :
   - CVs: generation of many CVs halted apruptly. At one place, even the sentence from Bio was genertaed as a third person.
   - Job Ads: mostly all generations halted incomplete.
 - issue of incompleteness in text generation is solved by changing max_length of new tokens to 2048 (earlier 512). Job ADs, CVs and cover Letters are generated in complete length. (updated folder 'generated_txts')
+
+#### 8 May 2025
+- updated folders of generated texts
+- generated new job ADs with model Llama3.2
+- Model2 proved to be taking longer time to generate texts. Quality is a bit better.
