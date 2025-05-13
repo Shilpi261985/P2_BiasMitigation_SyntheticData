@@ -14,6 +14,8 @@
     - proxy_words.txt : generated proxy words, phrases that can show a persons (gender, race, ethinicity or nationality)
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
+- doc:
+    - Doc_P2.docx : first draft of Project document
 
 
 ### Notebooks
@@ -210,3 +212,6 @@ File load_dataset.ipynb :
 - updated folders of generated texts
 - generated new job ADs with model Llama3.2
 - Model2 proved to be taking longer time to generate texts. Quality is a bit better.
+
+#### 13 May 2025
+- uploaded first draft of project document
