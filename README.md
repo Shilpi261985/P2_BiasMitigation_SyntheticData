@@ -43,9 +43,10 @@ Describe the results of your analysis on the BiosBias dataset.
 - Qualitative analysis of high confidence and low confidence examples
    - See these notebooks: https://colab.research.google.com/drive/1pi67-m54-BPOxEVwapM77dNNpFtsXtLZ, https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing#scrollTo=6CR0CHHlwZTj
 - Discussion of LIME explainer results
-- Do the same on the generated data (Train a new classifier on generated data WITHOUT including the BIOS)
 
 #### Evaluation Experiments
+- Gender classification II
+   - Do the same as before, but on the generated data (Train a new classifier on generated data WITHOUT including the BIOS)
 - Qualitative evaluation
   - Describe your findings in terms of consistency of information, potential sources of bias in the generated CVs/Letters (e.g. your observation about the years as a proxy for age) and any other important observations.
   - Provide several illustrative examples from the generated data
