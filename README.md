@@ -267,3 +267,4 @@ File load_dataset.ipynb :
 
 #### 13 May 2025
 - uploaded first draft of project document
+- uploaded summarized job AD using model Llama3.2 in generated_txts folder
