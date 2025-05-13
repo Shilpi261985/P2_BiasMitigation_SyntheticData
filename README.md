@@ -5,11 +5,16 @@
 #### BiosBias Dataset
    - Description of the dataset (history and contents)
 #### Model
-    - Description of the chosen LLM and why. Include description of the machine GPU and CPU specs used for running the model.
+   - Description of the chosen LLM and why. Include description of the machine GPU and CPU specs used for running the model.
+#### Gender Classifier
+   - Describe setup for classifier
+   - Describe LIME explainer and how it's used for identifying proxy words
 #### Synthetic Data Generation
 Describe the process for generation (include the prompts you used)
+   - Proxy words
+      - Describe how you generated proxy word lists
    - Job Ad
-
+   - CV/Cover Letters
 ## Rough Project Timeline
 
 ## Repository Information
