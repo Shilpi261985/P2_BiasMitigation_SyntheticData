@@ -1,4 +1,15 @@
 # BiasBios Synthetic Data Generation
+
+## Outline for writing
+### Materials and Methods
+#### BiosBias Dataset
+   - Description of the dataset (history and contents)
+#### Model
+    - Description of the chosen LLM and why. Include description of the machine GPU and CPU specs used for running the model.
+#### Synthetic Data Generation
+Describe the process for generation (include the prompts you used)
+   - Job Ad
+
 ## Rough Project Timeline
 
 ## Repository Information
