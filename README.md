@@ -9,9 +9,10 @@
 #### Gender Classifier
    - Describe setup for classifier
    - Describe LIME explainer (and how it's used for identifying proxy words)
+      - NOTE: The proxy word extraction probably works better if you FIRST remove names, pronouns, maybe stopwords
    - You should do the classifier once without any masking and once masking names, pronouns, etc.
 #### Synthetic Data Generation
-Describe the process for generation (include the prompts you used)
+Describe the process for generation (include the prompts you used). Note that you used only the accountant data and record the gender imbalance in the data.
    - Proxy words
       - Describe how you generated proxy word lists (lists should be provided in the appendix)
    - Job Ad
@@ -24,14 +25,30 @@ Describe the process for generation (include the prompts you used)
 #### Evaluation Experiments
 - Repeat gender classification on CVs and Cover letters
    - Once for each: with gender, without gender, with masking
-- Shortlisting
+<!--- Shortlisting (optional)
    - Use the same LLM (+ChatGPT for comparision, if time)
    - Provide 100 candidate CVs/cover letters along with the job ad, ask for shortlist of 10 best candidates
      - Do this once for CVs generated using the full bios, once for CVs generated using the masked content, once CVs using masked bios + proxy words
   - Compute gender ratios of top 10 each time. Even better, if time, run multiples and take averages
-  - 
+  - If time, do that same, but ask the model to explain it's reasoning before shortlisting -->
+- Qualitative evaluation
+   - Describe what you looked for when qualitatively evaluating the generated content
 
 ### Results
+#### Dataset Analysis
+Describe the results of your analysis on the BiosBias dataset.
+
+#### Gender classifier
+- Report accuracy, balanced accuracy, f1
+- Qualitative analysis of high confidence and low confidence examples
+   - See these notebooks: https://colab.research.google.com/drive/1pi67-m54-BPOxEVwapM77dNNpFtsXtLZ, https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing#scrollTo=6CR0CHHlwZTj
+- Discussion of LIME explainer results
+- Do the same on the generated data (Train a new classifier on generated data WITHOUT including the BIOS)
+
+#### Evaluation Experiments
+- Qualitative evaluation
+  - Describe your findings in terms of consistency of information, potential sources of bias in the generated CVs/Letters (e.g. your observation about the years as a proxy for age) and any other important observations.
+  - Provide several illustrative examples from the generated data
 
 ## Rough Project Timeline
 
