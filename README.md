@@ -8,13 +8,31 @@
    - Description of the chosen LLM and why. Include description of the machine GPU and CPU specs used for running the model.
 #### Gender Classifier
    - Describe setup for classifier
-   - Describe LIME explainer and how it's used for identifying proxy words
+   - Describe LIME explainer (and how it's used for identifying proxy words)
+   - You should do the classifier once without any masking and once masking names, pronouns, etc.
 #### Synthetic Data Generation
 Describe the process for generation (include the prompts you used)
    - Proxy words
-      - Describe how you generated proxy word lists
+      - Describe how you generated proxy word lists (lists should be provided in the appendix)
    - Job Ad
    - CV/Cover Letters
+      - With explicit gender info
+      - Without explicit gender info
+      - Masking names and pronouns in bio before generation
+        - With/without inclusion of words from proxy word lists
+      - (Optional) Eliminating top proxy words from classifier + LIME experiments
+#### Evaluation Experiments
+- Repeat gender classification on CVs and Cover letters
+   - Once for each: with gender, without gender, with masking
+- Shortlisting
+   - Use the same LLM (+ChatGPT for comparision, if time)
+   - Provide 100 candidate CVs/cover letters along with the job ad, ask for shortlist of 10 best candidates
+     - Do this once for CVs generated using the full bios, once for CVs generated using the masked content, once CVs using masked bios + proxy words
+  - Compute gender ratios of top 10 each time. Even better, if time, run multiples and take averages
+  - 
+
+### Results
+
 ## Rough Project Timeline
 
 ## Repository Information
