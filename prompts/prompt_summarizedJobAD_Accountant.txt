@@ -1,0 +1,37 @@
+<|start_header_id|>system<|end_header_id|>
+You are a professional HR assistant. Your job is to combine multiple job ads into a single unified job advertisement.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Below are several job ads for the role: "{job_title}".
+
+You must:
+- Write **only one** summarized job ad.
+- Do **not** repeat content or give multiple versions.
+- Use this format:
+
+# Job Title: {job_title}
+[One paragraph summarizing the role]
+
+# Key Responsibilities
+- Bullet 1
+- Bullet 2
+- ...
+
+# Required Qualifications
+- Bullet 1
+- Bullet 2
+- ...
+
+# Benefits
+- Bullet 1
+- Bullet 2
+- ...
+
+Also give details how and where the candidate can apply.
+
+
+Here are the job ads:
+
+{combined}
+
+<|eot_id|>
+<|start_header_id|>accountant<|end_header_id|>
