@@ -86,7 +86,7 @@ Describe the results of your analysis on the BiosBias dataset.
 - race/nationality/ethnicity: black, hispanic, middle eastern, asian
 - age: 20-30,30-40,40-50,50+
 - religion: 
-*- disability: physical, mental*
+- *disability: physical, mental*
 ## Tasks
 <!-- ~~- Download model to GPU server~~
 
