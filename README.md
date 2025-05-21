@@ -25,14 +25,15 @@ Describe the process for generation (include the prompts you used). Note that yo
 #### Evaluation Experiments
 - Repeat gender classification on CVs and Cover letters
    - Once for each: with gender, without gender, with masking
-<!--- Shortlisting (optional)
+- Qualitative evaluation
+   - Describe what you looked for when qualitatively evaluating the generated content
+- You should do this for each of your generated datasets (baseline: gender given during generation, masked: as much gender info as possible masked, tone: male assertive, female communal, proxies)
+- Shortlisting (optional)
    - Use the same LLM (+ChatGPT for comparision, if time)
    - Provide 100 candidate CVs/cover letters along with the job ad, ask for shortlist of 10 best candidates
      - Do this once for CVs generated using the full bios, once for CVs generated using the masked content, once CVs using masked bios + proxy words
   - Compute gender ratios of top 10 each time. Even better, if time, run multiples and take averages
-  - If time, do that same, but ask the model to explain it's reasoning before shortlisting -->
-- Qualitative evaluation
-   - Describe what you looked for when qualitatively evaluating the generated content
+  - If time, do that same, but ask the model to explain it's reasoning before shortlisting
 ---
 ### Results
 #### Dataset Analysis
@@ -51,7 +52,7 @@ Describe the results of your analysis on the BiosBias dataset.
   - Describe your findings in terms of consistency of information, potential sources of bias in the generated CVs/Letters (e.g. your observation about the years as a proxy for age) and any other important observations.
   - Provide several illustrative examples from the generated data
 
-## Rough Project Timeline
+<!-- ## Rough Project Timeline -->
 
 ## Repository Information
 ### Directories
@@ -78,7 +79,7 @@ Describe the results of your analysis on the BiosBias dataset.
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 ##
 ## Important Notes
-**Next Meeting:** 13.5.2025, 15h, virtual
+<!-- **Next Meeting:** 13.5.2025, 15h, virtual -->
 ##
 ### Sensitive attributes
 - gender: male, female
