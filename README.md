@@ -80,6 +80,9 @@ Describe the results of your analysis on the BiosBias dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
 - generate_jobAD.ipynb: for generating jobAds as per prompt text file for 10 sampled bios.
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
+- GenderClassification.ipynb: to explore gender classification using LIME text explainer
+
+  
 ##
 ## Important Notes
 <!-- **Next Meeting:** 13.5.2025, 15h, virtual -->
