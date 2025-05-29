@@ -42,7 +42,9 @@ Describe the results of your analysis on the BiosBias dataset.
 #### Gender classifier
 - Report accuracy, balanced accuracy, f1
 - Qualitative analysis of high confidence and low confidence examples
-   - See these notebooks: https://colab.research.google.com/drive/1pi67-m54-BPOxEVwapM77dNNpFtsXtLZ, https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing#scrollTo=6CR0CHHlwZTj
+   - See these notebooks:
+      - https://colab.research.google.com/drive/1pi67-m54-BPOxEVwapM77dNNpFtsXtLZ,
+      - https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing#scrollTo=6CR0CHHlwZTj
 - Discussion of LIME explainer results
 
 #### Evaluation Experiments
