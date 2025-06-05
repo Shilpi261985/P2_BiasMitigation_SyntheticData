@@ -72,17 +72,17 @@ Describe the results of your analysis on the BiosBias dataset.
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
 - doc:
     - Doc_P2.docx : first draft of Project document
-
-
+    - Doc_P2_5_6_25.docx : second draft of P2
+      
 ### Notebooks
 - load_Dataset.ipynb : has loaded main dataset and extracted sample Bios for each profession
 - info_record.ipynb : has all the information and visualisation around dataset.
 - model.ipynb : has uploaded model (Llama-2-7b-chat-hf) on GPU
 - generate_jobAD.ipynb: for generating jobAds as per prompt text file for 10 sampled bios.
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
-- GenderClassification.ipynb: to explore gender classification using LIME text explainer
+- GenderClassification.ipynb: to explore gender classification using LIME text explainer (without masking)
+- Classifier_with_lowercase_text : to explore gender classification using LIME but with lowercase texts(without masking)
 
-  
 ##
 ## Important Notes
 <!-- **Next Meeting:** 13.5.2025, 15h, virtual -->
@@ -275,3 +275,7 @@ File load_dataset.ipynb :
 #### 13 May 2025
 - uploaded first draft of project document
 - uploaded summarized job AD using model Llama3.2 in generated_txts folder
+
+#### 5 June 2025
+- uploaded second draft of P2 in doc folder
+- uploaded GenderClassification.ipynb (without masking) and Classifier_with_lowercase_text.ipynb in src folder
