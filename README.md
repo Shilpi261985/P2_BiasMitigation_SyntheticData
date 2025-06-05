@@ -10,7 +10,7 @@
 #### Gender Classifier
    - Describe setup for classifier
    - Describe LIME explainer (and how it's used for identifying proxy words)
-      - NOTE: The proxy word extraction probably works better if you FIRST remove names, pronouns, maybe stopwords
+      - NOTE: The proxy word extraction probably works better if you FIRST remove names, pronouns, **stopwords**
    - You should do the classifier once without any masking and once masking names, pronouns, etc.
 #### Synthetic Data Generation
 Describe the process for generation (include the prompts you used). Note that you used only the accountant data and record the gender imbalance in the data.
