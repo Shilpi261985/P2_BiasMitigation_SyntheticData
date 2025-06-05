@@ -28,7 +28,7 @@ Describe the process for generation (include the prompts you used). Note that yo
    - Once for each: with gender, without gender, with masking
 - Qualitative evaluation
    - Describe what you looked for when qualitatively evaluating the generated content
-- You should do this for each of your generated datasets (baseline: gender given during generation, masked: as much gender info as possible masked, tone: male assertive, female communal, proxies)
+- You should do this for each of your generated datasets (baseline: gender given during generation, masked: as much gender info as possible masked, tone (optional): male assertive, female communal, proxies)
 - Shortlisting (optional)
    - Use the same LLM (+ChatGPT for comparision, if time)
    - Provide 100 candidate CVs/cover letters along with the job ad, ask for shortlist of 10 best candidates
