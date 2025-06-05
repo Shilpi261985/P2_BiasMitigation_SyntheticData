@@ -1,6 +1,7 @@
 # BiasBios Synthetic Data Generation
-### Submission Deadline: 07.07.2025
-### Soft Deadline for Final Draft: 27.6.2025
+### Submission Deadline: 31.7.2025
+### Presentation: 8.8.2025
+### Soft Deadline for Final Draft: 25.7.2025
 ## Outline for writing
 ### Materials and Methods
 #### BiosBias Dataset
