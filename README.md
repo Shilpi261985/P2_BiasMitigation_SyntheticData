@@ -71,6 +71,8 @@ Describe the results of your analysis on the BiosBias dataset.
     - proxy_words.txt : generated proxy words, phrases that can show a persons (gender, race, ethinicity or nationality)
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
+     - accountant_complete.csv
+     - df_accountant_lower.csv
 - doc:
     - Doc_P2.docx : first draft of Project document
     - Doc_P2_5_6_25.docx : second draft of P2
@@ -83,6 +85,8 @@ Describe the results of your analysis on the BiosBias dataset.
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 - GenderClassification.ipynb: to explore gender classification using LIME text explainer (without masking)
 - Classifier_with_lowercase_text : to explore gender classification using LIME but with lowercase texts(without masking)
+- df_accountant_lower.ipynb : for df_accountant_complete in lower case
+- masked_pronouns_genderClassification.ipynb : classification on masked pronouns
 
 ##
 ## Important Notes
@@ -280,3 +284,9 @@ File load_dataset.ipynb :
 #### 5 June 2025
 - uploaded second draft of P2 in doc folder
 - uploaded GenderClassification.ipynb (without masking) and Classifier_with_lowercase_text.ipynb in src folder
+
+#### 18 June 2025
+- accountant_complete.csv
+- df_accountant_lower.csv
+- df_accountant_lower.ipynb : for df_accountant_complete in lower case
+- masked_pronouns_genderClassification.ipynb : classification on masked pronouns
