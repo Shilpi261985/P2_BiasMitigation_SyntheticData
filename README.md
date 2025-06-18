@@ -113,7 +113,8 @@ Describe the results of your analysis on the BiosBias dataset.
     - Who is the sample population~~
 
 ~~- In Readme, describe contents of each (important) notebook.~~ -->
-<!-- - Forward me info about timeline and requirements for writeup. -->
+### Tasks
+- Forward me info about timeline and requirements for writeup.
 - Finalize the job ad.
 <!-- - For now, stick to a single profession (accountant). -->
 - CV\Cover letter generation
