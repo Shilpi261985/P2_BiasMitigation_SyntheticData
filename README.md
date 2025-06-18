@@ -113,13 +113,12 @@ Describe the results of your analysis on the BiosBias dataset.
     - Who is the sample population~~
 
 ~~- In Readme, describe contents of each (important) notebook.~~ -->
-### Tasks
-- Forward me info about timeline and requirements for writeup.
+<!-- - Forward me info about timeline and requirements for writeup. -->
 - Finalize the job ad.
-- For now, stick to a single profession (accountant).
+<!-- - For now, stick to a single profession (accountant). -->
 - CV\Cover letter generation
   - No names or contact information.
-  - Instructions to make it easy to extract only the relevant text from the response.
+  <!-- - Instructions to make it easy to extract only the relevant text from the response. -->
   - Make sure any invented details are consistent with the bio, use real place names (companies/universities) as much as possible.
   - **Add option to include/exclude gender information (including proxy words) before generation**
 - Identify obvious gender words in original dataset and save (identified as male or female)
@@ -127,9 +126,10 @@ Describe the results of your analysis on the BiosBias dataset.
     - Names (probably use a "names" or "proper nouns" NLP library, e.g., spacy)
     - husband, father etc. (probably you can generate or find online)
 - Generate preliminary proxy word lists for gender using classifier.
-    - From dataset: https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing (similar to this notebook, but with gender classification)
+    <!-- - From dataset: https://colab.research.google.com/drive/1e0XVLn0Ov2BCVUS8bG3f3uq4otdN5Jkf?usp=sharing (similar to this notebook, but with gender classification) -->
     - Try also after removing gender pronouns and names.
     - Also, try on the generated CVs/Cover letters.
+    - (OPTIONAL) Try on job ad (classifier trained on, e.g., bios)
 - Generate preliminary proxy word lists using genAI
     - pronouns
     - social/familial/workplace roles
