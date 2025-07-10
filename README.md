@@ -289,3 +289,8 @@ File load_dataset.ipynb :
 - df_accountant_lower.csv
 - df_accountant_lower.ipynb : for df_accountant_complete in lower case
 - masked_pronouns_genderClassification.ipynb : classification on masked pronouns
+
+#### 10 July 2025
+- masked_Names_GenderClassification.ipynb
+- masked_obviousProxy_GenderClassification.ipynb
+- masked_personality_Classifier.ipynb
