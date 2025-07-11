@@ -294,3 +294,5 @@ File load_dataset.ipynb :
 - masked_Names_GenderClassification.ipynb
 - masked_obviousProxy_GenderClassification.ipynb
 - masked_personality_Classifier.ipynb
+- Doc section updated with latest version (Result section is still not updated and and last comments still need to verify.)
+- 
