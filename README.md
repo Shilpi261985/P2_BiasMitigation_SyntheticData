@@ -64,11 +64,13 @@ Describe the results of your analysis on the BiosBias dataset.
     - prompt_template_jobAD.txt : for prompt used to generate jobADs
     - prompt_CV.txt : for prompt used to generate CV
     - prompt_CoverLetter : for prompt used to generate CoverLetter
+    - prompt_summarizedJobAD_Accountant.txt : for generating summarised single job AD
 - generated_txts:
     - generated_outputs.txt : for saving all generated jobADs (accountant)
     - generated_jobADs : folder for saving generated jobADs (accountant) seperately for 10 bios
     - CVs_CoverLetter_Accountant : folder for saving generated CVs and CoverLetters (accountant) separately for 10 bios
     - proxy_words.txt : generated proxy words, phrases that can show a persons (gender, race, ethinicity or nationality)
+    - accountant_jobAd_llama3.txt : generated summarized single job AD
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
      - accountant_complete.csv
