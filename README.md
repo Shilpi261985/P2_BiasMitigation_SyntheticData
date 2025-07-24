@@ -64,11 +64,13 @@ Describe the results of your analysis on the BiosBias dataset.
     - prompt_template_jobAD.txt : for prompt used to generate jobADs
     - prompt_CV.txt : for prompt used to generate CV
     - prompt_CoverLetter : for prompt used to generate CoverLetter
+    - prompt_summarizedJobAD_Accountant.txt : for generating summarised single job AD
 - generated_txts:
     - generated_outputs.txt : for saving all generated jobADs (accountant)
     - generated_jobADs : folder for saving generated jobADs (accountant) seperately for 10 bios
     - CVs_CoverLetter_Accountant : folder for saving generated CVs and CoverLetters (accountant) separately for 10 bios
     - proxy_words.txt : generated proxy words, phrases that can show a persons (gender, race, ethinicity or nationality)
+    - accountant_jobAd_llama3.txt : generated summarized single job AD
 - csvs:
      - Bios_samples : folder for saving csvs for sampled(10) bios for all professions
      - accountant_complete.csv
@@ -84,9 +86,18 @@ Describe the results of your analysis on the BiosBias dataset.
 - generate_jobAD.ipynb: for generating jobAds as per prompt text file for 10 sampled bios.
 - generate_CV_CoverLetter.ipynb: to generate and save CV and Cover letter in separate text files.
 - GenderClassification.ipynb: to explore gender classification using LIME text explainer (without masking)
-- Classifier_with_lowercase_text : to explore gender classification using LIME but with lowercase texts(without masking)
+- Classifier_with_lowercase_text.ipynb : to explore gender classification using LIME but with lowercase texts(without masking)
 - df_accountant_lower.ipynb : for df_accountant_complete in lower case
 - masked_pronouns_genderClassification.ipynb : classification on masked pronouns
+- masked_Names_GenderClassification.ipynb : classification on masked Names and pronouns
+- masked_obviousProxy_GenderClassification.ipynb : classification on masked Names, pronouns and proxy words(sociatal, Workplace roles). (used filtered_df.csv  with stop words removed and lowercased text)
+- masked_personality_Classifier.ipynb : classification on masked Names, pronouns and proxy words(sociatal, Workplace roles) and personality trait words. (used filtered_df.csv for clean df)
+- gen_CV_CL_model3_2.ipynb : generating and saving 10 CV/CL as csv on model Llama3.2
+- classifier_Generated_text.ipynb : classification on generated CV/CL without masking or lowercasing text
+- masked_proxies_generatedText.ipynb :  classification on generated CV/CL masking Names, pronouns and proxy words(sociatal, Workplace roles)
+
+
+
 
 ##
 ## Important Notes
@@ -300,4 +311,8 @@ File load_dataset.ipynb :
 - masked_obviousProxy_GenderClassification.ipynb
 - masked_personality_Classifier.ipynb
 - Doc section updated with latest version (Result section is still not updated and and last comments still need to verify.)
-- 
+
+#### 18 July 2025
+- updated all ipynbs in src (including classifiers on generated CV/CL data)
+- updated csv folder with all generated and used csvs
+
